@@ -5,5 +5,5 @@ if __name__ == "__main__":
     print("I can go CQ!")
     print("Delta github")
     print(a)
-    print(a*3)
+    print(a*5)
     
